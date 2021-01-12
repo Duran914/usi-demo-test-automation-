@@ -16,7 +16,7 @@ async function launch_modal(){
 async function click(selector) {
     it("Click CTA", async () => {
         await page.waitForSelector(selector)
-        await page.click(sclearelector);
+        await page.click(selector);
       })
       
 }
