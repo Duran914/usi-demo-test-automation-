@@ -6,8 +6,7 @@
 2. npm i puppeteer 
 
 
-To run test
-npx mocha --no-timeout --slow 100000
+-- Steps -- 
 
 mkdir usi_test_automation
 
